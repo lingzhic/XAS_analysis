@@ -131,8 +131,6 @@ pyFAI==2026.3.0
 Pygments==2.19.2
 pymatgen==2025.10.7
 pymatgen-io-validation==0.1.2
-pyobjc-core==12.1
-pyobjc-framework-Cocoa==12.1
 pyparsing==3.3.2
 pyshortcuts==1.9.7
 python-dateutil==2.9.0.post0
@@ -190,9 +188,6 @@ webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.15
 wrapt==2.1.2
-wxmplot==2026.1.0
-wxPython==4.2.5
-wxutils==2026.1.0
 xarray==2025.6.1
 xmle==0.1.27
 xraydb==4.5.8
